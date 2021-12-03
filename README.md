@@ -2,7 +2,7 @@
 
 ![valid XHTML][checkmark]
 
-# perl-labs
+# perl-labs 👉️
 
 ## Contribuição
 
