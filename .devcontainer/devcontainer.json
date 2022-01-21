@@ -128,12 +128,7 @@
   },
 
   // Add the IDs of extensions you want installed when the container is created.
-  "extensions": 
-  [
-    "d9705996.perl-toolbox",
-    "mortenhenriksen.perl-debug", 
-    "WakaTime.vscode-wakatime"
-  ],
+  "extensions": ["d9705996.perl-toolbox", "mortenhenriksen.perl-debug"],
 
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
   // "forwardPorts": [],
